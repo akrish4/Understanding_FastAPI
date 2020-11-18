@@ -11,3 +11,8 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 
 # Requirements : 
  - Python 3.6+
+# Installation :
+ - pip install fastapi
+ - pip install uvicorn
+ 
+ 
