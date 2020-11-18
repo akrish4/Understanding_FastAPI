@@ -32,5 +32,5 @@ INFO: Application startup complete.
 ```
 # Check it 
 Open your browser at http://127.0.0.1:8000/items/5?q=HelloWorld.
-#### (https://fastapi.tiangolo.com/)[official document]
+####  [official document](https://fastapi.tiangolo.com/)
 `made with 💖 if you find it usefull , dont forget to drop a star👍`
