@@ -1,4 +1,4 @@
-# FastAPI
+# FastAPI 😊
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 ## Features :
 - **Fast:** Very high performance
@@ -32,3 +32,5 @@ INFO: Application startup complete.
 ```
 # Check it 
 Open your browser at http://127.0.0.1:8000/items/5?q=HelloWorld.
+#### (official document)[https://fastapi.tiangolo.com/]
+made with 💖 if you find it usefull , dont forget to drop a star👍
