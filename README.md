@@ -10,4 +10,4 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 - **Robust:** Get production-ready code. With automatic interactive documentation.
 
 # Requirements : 
-Python 3.6+
+ - Python 3.6+
